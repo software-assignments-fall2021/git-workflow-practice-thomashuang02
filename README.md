@@ -1,5 +1,5 @@
-# [CodeSignal announces new IDE for the hiring process](https://sdtimes.com/softwaredev/codesignal-announces-new-ide-for-the-hiring-process/)
-### SD Times, published 9/16/2021 by Katie Dee
+# CodeSignal announces new IDE for the hiring process
+### [Article](https://sdtimes.com/softwaredev/codesignal-announces-new-ide-for-the-hiring-process/) from SD Times, published 9/16/2021 by Katie Dee
 
 Many of us are nearing the end of our college stints and approaching the real world job market at full force. They key word is "many" of us – the CEO of CodeSignal cites that "traditionally [a hiring manager] would reject 90-95% of candidates because there’s so much volume and no capacity to actually conduct interviews." There are a lot of reasons a company with a large volume of applications would reject an applicant, whether it be the whim of a hiring manager skimming a resume, the whim of an AI picking out keywords from a resume, or god forbid, an automated rejection based on a 20-minute multiple-choice personality test, without any reliable assessment of soft and technical skills (that last one I recently experienced, and I was equally confused and indignant).
 
